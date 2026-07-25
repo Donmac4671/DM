@@ -1,0 +1,27 @@
+
+> donmac-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 539ms
+
+○ Compiling / ...
+ HEAD / 200 in 3.6s (next.js: 3.4s, application-code: 264ms)
+ GET / 200 in 130ms (next.js: 10ms, application-code: 120ms)
+ GET /login 200 in 1009ms (next.js: 831ms, application-code: 178ms)
+ POST /api/auth 200 in 1160ms (next.js: 1124ms, application-code: 35ms)
+ GET /customer 200 in 901ms (next.js: 750ms, application-code: 150ms)
+ GET /api/auth 200 in 17ms (next.js: 7ms, application-code: 10ms)
+ GET /api/auth 200 in 9ms (next.js: 3ms, application-code: 6ms)
+ GET /api/announcements 200 in 300ms (next.js: 292ms, application-code: 8ms)
+ GET /api/packages 200 in 391ms (next.js: 383ms, application-code: 8ms)
+ GET /api/complaints 200 in 483ms (next.js: 472ms, application-code: 12ms)
+ GET /api/orders 200 in 594ms (next.js: 583ms, application-code: 12ms)
+ GET /api/transactions 200 in 645ms (next.js: 639ms, application-code: 6ms)
+ GET /api/announcements 200 in 15ms (next.js: 7ms, application-code: 8ms)
+ GET /api/packages 200 in 23ms (next.js: 17ms, application-code: 7ms)
+ GET /api/complaints 200 in 29ms (next.js: 23ms, application-code: 5ms)
+ GET /api/orders 200 in 36ms (next.js: 30ms, application-code: 7ms)
+ GET /api/transactions 200 in 49ms (next.js: 40ms, application-code: 9ms)
